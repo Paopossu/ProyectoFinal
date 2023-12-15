@@ -1,4 +1,2 @@
-Prueba1
-# AWS_CI-CD
-
-Prueba de creacion 1
+# InfraAWS
+Repositorio para proyecto final destino a las configuraciones de Infraestructura con Terraform
